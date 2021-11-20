@@ -61,4 +61,3 @@ Open PowerShell ( Run On Admin )
 bcdedit /set "{bootmgr}" path \EFI\BOOT\BOOTx64.efi
 ```
 Done
-bcdedit /set "{bootmgr}" path \EFI\BOOT\BOOTx64.efi
