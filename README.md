@@ -49,6 +49,7 @@ Afte Loadkext Open System Preferences -> Security and enable here VoodooHDA
 And Reboot --> Complete
 
 # Multiboot Windows - macOS
+```bash
 Create Partition
 Boot Windows
 Afte Boot Windows Copy Folder Microsoft to /EFI/Microsoft
@@ -57,6 +58,7 @@ Copy you OC foler to /EFI/OC
 Copy /EFI/BOOT/BOOTx64.efi to /EFI/OC/BOOTx64.efi
 Copy my Folder BOOT to /EFI/BOOT
 Open PowerShell ( Run On Admin )
+```
 ```bash
 bcdedit /set "{bootmgr}" path \EFI\BOOT\BOOTx64.efi
 ```
