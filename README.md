@@ -4,6 +4,7 @@ HP ProBook 640 G1 - Core i5 4200M - VGA Intel HD Graphics 4600 - VGA Radeon 8750
 ## What Work
 ```bash
 ALL
+I can FakeID VGA HD8750M to HD8770M but i can't test it ( i see system info show: Support Devices )
 ```
 
 ```bash
