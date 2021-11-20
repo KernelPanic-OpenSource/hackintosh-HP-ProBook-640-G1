@@ -1,6 +1,18 @@
 # hackintosh-HP-ProBook-640-G1
 HP ProBook 640 G1 - Core i5 4200M - VGA Intel HD Graphics 4600 - VGA Radeon 8750M
 
+## BAD ENGLISH
+
+## What Device Work On My EFI ?
+```bash
+HP Probook 640 G1 ( Radeon VGA )
+HP Probook 640 G1 ( Non VGA )
+HP Probook 450 G1
+HP Probook 650 G1
+And Some devices HP use HD4600 Same my devices
+!!! -> Wifi / Bluetooth / Internet Will Not Work If u use Other Devices not like me <3 
+```
+
 ## What Work
 ```bash
 ALL
